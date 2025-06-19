@@ -97,6 +97,5 @@ A: Yes. You may modify the logic in the `callGroqApi()` function to interact wit
 
 MIT License
 
----
 
 This extension is intended to improve productivity and provide code-related assistance directly within Visual Studio Code. For questions, suggestions, or contributions, please refer to the repository or contact the maintainer.
