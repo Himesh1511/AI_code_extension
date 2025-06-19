@@ -69,7 +69,6 @@ const apiKey = "YOUR_GROQ_API_KEY";
 | `src/extension.ts`  | Main extension logic (backend and webview setup) |
 | `package.json`   | Extension configuration, commands, dependencies  |
 | `tsconfig.json`  | TypeScript configuration                         |
-| `.vscode/`       | Debug and launch settings                        |
 | `README.md`      | Project documentation                            |
 
 ---
